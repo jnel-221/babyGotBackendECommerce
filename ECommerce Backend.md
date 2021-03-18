@@ -7,6 +7,8 @@
   ## Description
 
   A backend framework for an e-commerce site, utilizing Express.js and Sequelize to interact with a MySQL database.
+
+  Watch a demo [here](https://drive.google.com/file/d/1YJgsSbjUh95xriEUKwo8InX80X2MD5xj/view)
   
   ## Table of Contents
   
@@ -21,7 +23,7 @@
   ## Installation
 
   ```bash
-  Clone and save the repo, install dependencies, and  set up the database with the provided schema and seed files.
+  Clone and save the repo, install dependencies, and set-up the database with the provided schema and seed files.
   ```
 
   [Back to Table of Contents](#table-of-contents)
@@ -34,7 +36,7 @@
   
   ## Credits
 
-  This app was created with node.js, Express.js, Sequelize, MySQL, and is powered by JavaScript.  A shout out to my study group and TAs who helped me get the hang of postman, and the Sequelize 'through' relationship.
+  This app was created with [node.js](https://nodejs.org/en/), [Express.js](https://expressjs.com/), [Sequelize](https://sequelize.org/), [MySQL](https://www.mysql.com/), and is powered by [JavaScript](https://www.javascript.com/).  A shout out to my study group and TAs who helped me get the hang of postman, and the Sequelize 'through' relationship.
 
   [Back to Table of Contents](#table-of-contents)
   
@@ -60,6 +62,6 @@
   
   ## License
 
-  This project is licensed under the terms of the MIT license.
+  This project is licensed under the terms of the [MIT](license) license.
   
   [Back to Table of Contents](#table-of-contents)
