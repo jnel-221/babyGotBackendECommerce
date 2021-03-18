@@ -50,6 +50,8 @@ router.post("/", async (req, res) => {
         .json({ message: "Uh-oh, something went wrong, please try again!" });
     }
 
+    ProductTag.create(newTag);
+    
     res.status(200).json(newTag);
   } catch (err) {
     res.status(500).json(err);
