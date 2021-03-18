@@ -7,6 +7,12 @@
   ## Description
 
   A backend framework for an e-commerce site, utilizing Express.js and Sequelize to interact with a MySQL database.
+
+  Watch a full demonstration [here](https://drive.google.com/file/d/1YJgsSbjUh95xriEUKwo8InX80X2MD5xj/view?usp=sharing)!
+
+
+Backend functionality displayed in Postman:
+![postman-gif](./Develop/assets/backend.gif)
   
   ## Table of Contents
   
